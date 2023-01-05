@@ -4,7 +4,9 @@
     <h1 align="center">Hi 👋, I'm Zephyr</h1>
     <h3 align="center">A passionate Peruvian frontend developer who is always willing to help anyone who needs it.</h3>
 </div>
+
 ---
+
 👨‍💻 About Me:
 - 🔭 I’m try to learn new things
 - 🌱 I’m currently learning JavaScript, React, and HTML (yes, I don't know how to make sites lol)
