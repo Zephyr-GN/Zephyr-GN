@@ -6,7 +6,7 @@
 
 ---
 
-👨‍💻 About Me:
+###👨‍💻 About Me:
 - 🔭 I’m try to learn new things
 - 🌱 I’m currently learning JavaScript, React, and HTML (yes, I don't know how to make sites lol)
 - 💬 I'm trying to find a job as an intern
@@ -23,5 +23,4 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
     </div>
 </div>
-
 
