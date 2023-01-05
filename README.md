@@ -6,7 +6,7 @@
 
 ---
 
-###👨‍💻 About Me:
+### 👨‍💻 About Me:
 - 🔭 I’m try to learn new things
 - 🌱 I’m currently learning JavaScript and React
 - 💬 I'm trying to find a job as an intern
