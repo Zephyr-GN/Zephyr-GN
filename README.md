@@ -1,4 +1,3 @@
-### Hi there 👋
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Zephyr</h1>
@@ -14,17 +13,15 @@
 - 📫 Discord: Zephyr#4276
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I drink 1-2 coffees per day.
-<!--
-**Zephyr-GN/Zephyr-GN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
+    </div>
+</div>
+
+
