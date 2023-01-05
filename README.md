@@ -8,7 +8,7 @@
 
 ###👨‍💻 About Me:
 - 🔭 I’m try to learn new things
-- 🌱 I’m currently learning JavaScript, React, and HTML (yes, I don't know how to make sites lol)
+- 🌱 I’m currently learning JavaScript and React
 - 💬 I'm trying to find a job as an intern
 - 📫 Discord: Zephyr#4276
 - 😄 Pronouns: he/him
