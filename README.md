@@ -17,7 +17,7 @@
 ---
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h2>🔨 Languages and Tools:</h2>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
