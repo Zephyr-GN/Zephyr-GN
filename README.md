@@ -31,3 +31,7 @@
     </div>
 </div>
 
+---
+<h2 align="left">📖 Stats</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EvilG-MC&theme=dark" alt="EvilG-MC" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EvilG-MC&theme=dark" alt="EvilG-MC" /></p>
