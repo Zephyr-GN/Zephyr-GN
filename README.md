@@ -35,5 +35,5 @@
 <h2 align="left">📖 Stats</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zephyr-GN&theme=dark" alt="EvilG-MC" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Zephyr-GN&theme=dark" alt="EvilG-MC" /></p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/398248330637082626)](https://discord.com/users/398248330637082626)
-<p><img align="center" src="https://lanyard.cnrad.dev/api/391283181665517568" alt="EvilG-MC" /></p>
+
+<p><img align="center" src="https://lanyard.cnrad.dev/api/398248330637082626" alt="EvilG-MC" /></p>
