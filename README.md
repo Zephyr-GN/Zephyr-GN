@@ -41,3 +41,6 @@
 <h2 align="left">✨ Actitity</h2>
 <p><img align="center" src="https://lanyard.cnrad.dev/api/398248330637082626" alt="Zephyr-GN" /></p>
 
+---
+
+![snake gif](https://github.com/Zephyr-GN/Zephyr-GN/blob/output/github-contribution-grid-snake.svg)
